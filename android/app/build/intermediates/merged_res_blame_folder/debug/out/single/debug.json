@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_playmate.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/playmate.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_google.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/google.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_search.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/search.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_mobile.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/mobile.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_badminton_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/badminton_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_ice_hockey_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/ice_hockey_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_baseball_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/baseball_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_logo_f.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/logo_f.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_hockey_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/hockey_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_squash_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/squash_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_location.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/location.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_snooker_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/snooker_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_fb.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/fb.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_cricket_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/cricket_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_football_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/football_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_success.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/success.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_booking.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/booking.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_handball_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/handball_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_padel_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/padel_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_snooker_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/snooker_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_badminton_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/badminton_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_table_tennis_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/table_tennis_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_bg.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/bg.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_archery_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/archery_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_user.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/user.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_table_tennis_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/table_tennis_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_basketball_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/basketball_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_jemli_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/jemli_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_baseball_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/baseball_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_rugby_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/rugby_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_handball_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/handball_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_archery_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/archery_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_chat.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/chat.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_overview_img1.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/overview_img1.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_ice_hockey_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/ice_hockey_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_volleyball_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/volleyball_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_cricket_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/cricket_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_location_map.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/location_map.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_photo_logo.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/photo_logo.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_visibility.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/visibility.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_hockey_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/hockey_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_circle.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/circle.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_location_bg.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/location_bg.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_overview_img2.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/overview_img2.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_padel_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/padel_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_hey.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/hey.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_circle_w.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/circle_w.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_rugby_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/rugby_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_squash_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/squash_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_visibility_off.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/visibility_off.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_account.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/account.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_basketball_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/basketball_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_right_arrow.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/right_arrow.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_home.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/home.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_football_white.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/football_white.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_volleyball_fill.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/volleyball_fill.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_left_arrow.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/left_arrow.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_overview_img3.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/overview_img3.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_jemli_logo.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/jemli_logo.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_logo.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/logo.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.playonbooking.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.playonbooking.app-merged_res-34:/drawable_location_pin.png.flat",
+        "source": "com.playonbooking.app-main-36:/drawable/location_pin.png"
+    }
+]
